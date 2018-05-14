@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\shiro\MyShiroRealm.class
+com\example\controller\test.class
+com\example\demo\GeneratorSqlmap.class
+com\example\mapper\SysUserMapper.class
+com\example\pojo\SysUser.class
